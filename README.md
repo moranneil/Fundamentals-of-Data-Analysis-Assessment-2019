@@ -4,10 +4,10 @@ Neil Moran
 
 # 1. Description
 
-   ### * Importing Python Packages ###
-   ### * Importing Tip Dataset ###
-   ### * Descriptive Statistics ###
-   ####  * Gender Differences ####
+   * Importing Python Packages ###
+   * Importing Tip Dataset ###
+   * Descriptive Statistics ###
+     * Gender Differences ####
 
 
 
