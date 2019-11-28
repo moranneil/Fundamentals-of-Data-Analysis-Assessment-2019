@@ -1,7 +1,7 @@
 # Fundamentals-of-Data-Analysis-Assessment-2019
 ### Semester 2: Fundamentals of Data Analysis Module, Assessment 2019 Repository<br>
 <br>
-The notebook describes the tips dataset. The notebook is broken up in to three main sections below. In each section there are a a number of headings and sub headings.<br>
+The notebook describes the tips dataset. The notebook is broken up in to three main sections below. In each section there are a a number of headings and sub headings. The notebook runs from top to bottom sequentially.<br>
 
 In the first section we import the dataset from a URL using seaborn. Descriptive statics are plotted and discussed<br>
 
