@@ -6,8 +6,8 @@ Neil Moran
 
    ### - Importing Python Packages
    ### - Importing Tip Dataset
-
-#### Gender Differences
+   ### - Descriptive Statistics
+      #### Gender Differences
 
 
 
