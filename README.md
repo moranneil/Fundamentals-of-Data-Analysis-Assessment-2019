@@ -8,7 +8,9 @@ Neil Moran
    * Importing Tip Dataset 
    * Descriptive Statistics 
      * Gender Differences
-
+   * Plotting Variables from the Dataset
+     * Univariate Plots
+        In this section variables such as tip, total_bill and size are plotted.
 
 
 # 2. Regression
