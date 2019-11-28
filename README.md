@@ -1,7 +1,13 @@
 # Fundamentals-of-Data-Analysis-Assessment-2019
-Semester 2: Fundamentals of Data Analysis Module, Assessment 2019 Repository
-Neil Moran
-
+Semester 2: Fundamentals of Data Analysis Module, Assessment 2019 Repository<br>
+<br>
+The notebook describes the tips dataset. The notebook is broken up in to three main sections below. In each section there are a a number of headings and sub headings.<br>
+<br>
+In the first section we import the dataset from a URL using seaborn. Descriptive statics are plotted and discussed<br>
+<br>
+In the 2nd section Linear Regression is discussed and how the variable tip is dependent on total_bill<br>
+<br>
+Finally in the third section we analyse the dataset further with a variety of plots that analyse various dataset variables together to visualise the information in the dataset. We look at filtering the dataset and how useful that can be for example filtering on days of the week or finding tips that are <= 1.00. We also look at pairplots that give us further information on multiple variables together.<br>
 # 1. Description
    * Importing Python Packages
    * Importing Tip Dataset 
