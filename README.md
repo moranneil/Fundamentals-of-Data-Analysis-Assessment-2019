@@ -18,6 +18,7 @@ Finally in the third section we analyse the dataset further with a variety of pl
    * Plotting Variables from the Dataset
      * Univariate Plots
         In this section variables such as tip, total_bill and size are plotted.
+   * Conclusions
 
 # 2. Regression
   * Linear Regression Cost
@@ -35,8 +36,5 @@ Finally in the third section we analyse the dataset further with a variety of pl
     * Filter by String Variable
     * Filter by Numeric Value
    * Pairplots
-   
-    
-    
+   * Conclusions
   
-
