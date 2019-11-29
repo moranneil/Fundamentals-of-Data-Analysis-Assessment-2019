@@ -1,4 +1,4 @@
-# Fundamentals-of-Data-Analysis-Assessment-2019
+# Fundamentals of Data Analysis Assessment 2019
 ### Semester 2: Fundamentals of Data Analysis Module, Assessment 2019 Repository<br>
 
 ![Image](Images/pythonpandas.JPG "Image")
